@@ -1,0 +1,10 @@
+COMPUTER VISION PERFORMANCE SUMMARY
+========================================
+Valid frames analyzed: 294
+Average processing time: 78.12 ms
+Median processing time: 57.44 ms
+Average processing FPS: 15.15
+Median processing FPS: 17.41
+Maximum detected objects: 2
+Average detected objects: 1.02
+Average extracted shapes: 1.55
