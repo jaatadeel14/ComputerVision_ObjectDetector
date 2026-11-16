@@ -1,4 +1,3 @@
-
 import cv2
 import time
 import csv
@@ -230,3 +229,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
