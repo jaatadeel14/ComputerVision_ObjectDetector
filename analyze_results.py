@@ -2,7 +2,6 @@
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
-
 # Paths
 log_file = os.path.join("outputs", "performance_log.csv")
 output_dir = "outputs"
@@ -109,3 +108,4 @@ plt.close()
 print("\nAnalysis completed successfully.")
 print("Summary saved to:", summary_file)
 print("Graphs saved in:", output_dir)
+
